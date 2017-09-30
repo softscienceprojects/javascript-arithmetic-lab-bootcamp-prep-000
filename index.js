@@ -26,7 +26,10 @@ return number
 
 function makeInt(n) {
   parseInt(n)
-  return n
+  return n 
+  else {
+    return NaN
+  }
 }
 
 function preserveDecimal(n) {
