@@ -25,9 +25,8 @@ return number
 }
 
 function makeInt(n, 10) {
-  parseInt(n)
-  return n
-  
+  var number = parseInt(n)
+  return number
 }
 
 function preserveDecimal(n) {
