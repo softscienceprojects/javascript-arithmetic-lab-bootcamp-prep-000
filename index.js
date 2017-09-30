@@ -15,8 +15,8 @@ function divide(a,b) {
 }
 
 function inc(a) {
-a + 1
-return a
+var number = a + 1
+return number
 }
 
 function dec(a) {
