@@ -24,7 +24,7 @@ var number = a - 1
 return number
 }
 
-function makeInt(n) {
+function makeInt(n, 10) {
   parseInt(n)
   return n 
   else {
