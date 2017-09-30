@@ -20,7 +20,7 @@ return number
 }
 
 function dec(a) {
-var number a - 1
+var number = a - 1
 return a
 }
 
